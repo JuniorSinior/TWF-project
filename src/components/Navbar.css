@@ -9,8 +9,7 @@ a {
 
 li a:hover {
     color: #FFB0B0 !important;
-    /* background-color: rgb(233, 233, 233) !important;
-    border-radius: 30%; */
+    text-decoration: underline !important;
 }
 
 .navbar {

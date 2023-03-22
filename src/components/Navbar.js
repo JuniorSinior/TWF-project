@@ -9,10 +9,9 @@ const Navbar = () => {
                 <Link to='/'>푸드플래닛</Link>
             </div>
             <ul className='navbar-menu'>
-                
-                <li><a href="">MAP</a></li>
-                <li><a href="">PLANNING</a></li>
-                <li><a href="">MYPAGE</a></li>
+                <li><Link to='/map'>MAP</Link></li>
+                <li><Link to='/planning'>PLANNING</Link></li>
+                <li><Link to='/mypage'>MYPAGE</Link></li>
                 <li><Link to='/login'>LOGIN</Link></li>
             </ul>
         </nav>
