@@ -6,6 +6,7 @@ import './style.css';
 function Signup(props) {
     return (
         <div>
+            <Logo />
             <h3 className='pgnametxt'>회원가입</h3>
             <hr className='shortline'></hr>
             <div><input type='text' placeholder='아이디' className='Ltxtbox'></input></div>
