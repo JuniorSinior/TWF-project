@@ -1,55 +1,19 @@
-.logintext {
-    text-align: center;
-    padding-top: 10px;
-}
-
-.line {
-    margin-left: 30%;
-    width: 40%;
-}
-
-.txtbox {
-    margin-top: 20px;
-    margin-left: 30%;
-    width: 40%;
-    height: 45px;
-    padding: 2%;
-}
-
-.txt {
-    list-style-type: none;
-    font-size: 12px;
-    margin-left: 30%;
-    width: 40%;
-    margin-top: 10px;
-}
-
-.btn {
-    margin-top: 10px;
-    margin-left: 30%;
-    width: 40%;
-    height: 45px;
-    background-color: lightgray !important;
-    color: gray !important;
-}
-
-.btn:hover {
-    background-color: #FFB0B0 !important;
-    color: white !important;
-}
-
-.lbl {
-    font-size: 15px;
-    margin-left: 30%;
-    width: 40%;
-    margin-top: 10px;
-}
-
 .left-space {
     margin-left: 30%;
 }
 
 .info {
-    font-size: 13px;
-    padding-left: 3px;
+    font-size: 90%;
+    padding-left: 1%;
+}
+
+.txtbox {
+    /* align-items: center; */
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 30%;
+    width: 40%;
+    height: 3vh;
+    padding: 2%;
+    font-size: 75%;
 }
